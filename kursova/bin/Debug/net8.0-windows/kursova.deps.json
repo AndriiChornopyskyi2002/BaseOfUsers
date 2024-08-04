@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "kursova/1.0.0": {
+        "dependencies": {
+          "kursova.models": "1.0.0",
+          "kursova.services": "1.0.0"
+        },
+        "runtime": {
+          "kursova.dll": {}
+        }
+      },
+      "kursova.models/1.0.0": {
+        "runtime": {
+          "kursova.models.dll": {}
+        }
+      },
+      "kursova.services/1.0.0": {
+        "dependencies": {
+          "kursova.models": "1.0.0"
+        },
+        "runtime": {
+          "kursova.services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "kursova/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "kursova.models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "kursova.services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

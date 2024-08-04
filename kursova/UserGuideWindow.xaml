@@ -1,0 +1,25 @@
+﻿<Window x:Class="kursova.UserGuideWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:local="clr-namespace:kursova"
+        mc:Ignorable="d"
+        Title="Довідникова книга" Height="450" Width="800">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Label FontWeight="Bold" FontSize="20" HorizontalAlignment="Center">Посібник користувача</Label>
+            <Label>Дана програма є системою управління бази даних "Довідникова книга"</Label>
+            
+            <Button Margin="0,20,0,0" Content="Як додати об'єкт до бази даних?" Click="OneStepGuide_Click"/>
+            <Button Margin="0,10,0,0" Content="Як переглянути вміст бази даних?" Click="TwoStepGuide_Click"/>
+            <Button Margin="0,10,0,0" Content="Як редагувати об'єкт?" Click="ThreeStepGuide_Click"/>
+            <Button Margin="0,10,0,0" Content="Як видалити об'єкт?" Click="FourStepGuide_Click"/>
+            <Button Margin="0,10,0,0" Content="Як здійснювати пошук?" Click="FiveStepGuide_Click"/>
+        </StackPanel>
+        
+        <StackPanel HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="10">
+            <Button Content="Назад" Click="ReturnToMainMenu_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

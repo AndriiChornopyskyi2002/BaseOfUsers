@@ -1,0 +1,34 @@
+﻿<Window x:Class="kursova.FourStepGuide"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:local="clr-namespace:kursova"
+        mc:Ignorable="d"
+        Title="Довідникова книга" Height="450" Width="800">
+    <Grid>
+        <StackPanel Margin="10" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Label FontWeight="Bold" HorizontalAlignment="Center" FontSize="20">Четвертий крок</Label>
+            
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+
+                <StackPanel Margin="10" Grid.Column="1">
+                    <Label FontWeight="Bold">1. Введіть номер елементу для видалення:</Label>
+                    <Label>- У полі "Номер елементу" введіть номер елементу (користувача), який ви бажаєте видалити.</Label>
+                    
+                    <Label FontWeight="Bold">2. Видаліть користувача:</Label>
+                    <Label>- Після введення номеру елементу натисніть кнопку "Видалити", щоб видалити користувача з бази даних.</Label>
+                </StackPanel>
+            </Grid>
+            
+            <StackPanel HorizontalAlignment="Left" VerticalAlignment="Bottom" >
+                <Button Content="Назад" Click="ReturnToUserGuide_Click" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="5"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

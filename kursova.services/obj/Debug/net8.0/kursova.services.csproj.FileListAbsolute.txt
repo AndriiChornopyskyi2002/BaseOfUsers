@@ -1,0 +1,30 @@
+C:\Users\L-69\Desktop\kursova\kursova.services\bin\Debug\net8.0\kursova.services.deps.json
+C:\Users\L-69\Desktop\kursova\kursova.services\bin\Debug\net8.0\kursova.services.dll
+C:\Users\L-69\Desktop\kursova\kursova.services\bin\Debug\net8.0\kursova.services.pdb
+C:\Users\L-69\Desktop\kursova\kursova.services\bin\Debug\net8.0\kursova.models.dll
+C:\Users\L-69\Desktop\kursova\kursova.services\bin\Debug\net8.0\kursova.models.pdb
+C:\Users\L-69\Desktop\kursova\kursova.services\obj\Debug\net8.0\kursova.services.csproj.AssemblyReference.cache
+C:\Users\L-69\Desktop\kursova\kursova.services\obj\Debug\net8.0\kursova.services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L-69\Desktop\kursova\kursova.services\obj\Debug\net8.0\kursova.services.AssemblyInfoInputs.cache
+C:\Users\L-69\Desktop\kursova\kursova.services\obj\Debug\net8.0\kursova.services.AssemblyInfo.cs
+C:\Users\L-69\Desktop\kursova\kursova.services\obj\Debug\net8.0\kursova.services.csproj.CoreCompileInputs.cache
+C:\Users\L-69\Desktop\kursova\kursova.services\obj\Debug\net8.0\kursova..E23E1A5D.Up2Date
+C:\Users\L-69\Desktop\kursova\kursova.services\obj\Debug\net8.0\kursova.services.dll
+C:\Users\L-69\Desktop\kursova\kursova.services\obj\Debug\net8.0\refint\kursova.services.dll
+C:\Users\L-69\Desktop\kursova\kursova.services\obj\Debug\net8.0\kursova.services.pdb
+C:\Users\L-69\Desktop\kursova\kursova.services\obj\Debug\net8.0\ref\kursova.services.dll
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova.services\bin\Debug\net8.0\kursova.services.deps.json
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova.services\bin\Debug\net8.0\kursova.services.dll
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova.services\bin\Debug\net8.0\kursova.services.pdb
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova.services\bin\Debug\net8.0\kursova.models.dll
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova.services\bin\Debug\net8.0\kursova.models.pdb
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova.services\obj\Debug\net8.0\kursova.services.csproj.AssemblyReference.cache
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova.services\obj\Debug\net8.0\kursova.services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova.services\obj\Debug\net8.0\kursova.services.AssemblyInfoInputs.cache
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova.services\obj\Debug\net8.0\kursova.services.AssemblyInfo.cs
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova.services\obj\Debug\net8.0\kursova.services.csproj.CoreCompileInputs.cache
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova.services\obj\Debug\net8.0\kursova.services.csproj.CopyComplete
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova.services\obj\Debug\net8.0\kursova.services.dll
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova.services\obj\Debug\net8.0\refint\kursova.services.dll
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova.services\obj\Debug\net8.0\kursova.services.pdb
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova.services\obj\Debug\net8.0\ref\kursova.services.dll

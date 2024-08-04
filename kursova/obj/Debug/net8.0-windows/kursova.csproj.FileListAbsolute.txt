@@ -1,0 +1,138 @@
+C:\Users\andri\RiderProjects\kursova\kursova\bin\Debug\net8.0-windows\kursova.exe
+C:\Users\andri\RiderProjects\kursova\kursova\bin\Debug\net8.0-windows\kursova.deps.json
+C:\Users\andri\RiderProjects\kursova\kursova\bin\Debug\net8.0-windows\kursova.runtimeconfig.json
+C:\Users\andri\RiderProjects\kursova\kursova\bin\Debug\net8.0-windows\kursova.dll
+C:\Users\andri\RiderProjects\kursova\kursova\bin\Debug\net8.0-windows\kursova.pdb
+C:\Users\andri\RiderProjects\kursova\kursova\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\andri\RiderProjects\kursova\kursova\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\andri\RiderProjects\kursova\kursova\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\andri\RiderProjects\kursova\kursova\obj\Debug\net8.0-windows\kursova_MarkupCompile.cache
+C:\Users\andri\RiderProjects\kursova\kursova\obj\Debug\net8.0-windows\kursova.g.resources
+C:\Users\andri\RiderProjects\kursova\kursova\obj\Debug\net8.0-windows\kursova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andri\RiderProjects\kursova\kursova\obj\Debug\net8.0-windows\kursova.AssemblyInfoInputs.cache
+C:\Users\andri\RiderProjects\kursova\kursova\obj\Debug\net8.0-windows\kursova.AssemblyInfo.cs
+C:\Users\andri\RiderProjects\kursova\kursova\obj\Debug\net8.0-windows\kursova.csproj.CoreCompileInputs.cache
+C:\Users\andri\RiderProjects\kursova\kursova\obj\Debug\net8.0-windows\kursova.dll
+C:\Users\andri\RiderProjects\kursova\kursova\obj\Debug\net8.0-windows\refint\kursova.dll
+C:\Users\andri\RiderProjects\kursova\kursova\obj\Debug\net8.0-windows\kursova.pdb
+C:\Users\andri\RiderProjects\kursova\kursova\obj\Debug\net8.0-windows\kursova.genruntimeconfig.cache
+C:\Users\andri\RiderProjects\kursova\kursova\obj\Debug\net8.0-windows\ref\kursova.dll
+C:\Users\andri\RiderProjects\kursova\kursova\obj\Debug\net8.0-windows\UserGuideWindow.g.cs
+C:\Users\andri\RiderProjects\kursova\kursova\obj\Debug\net8.0-windows\kursova_MarkupCompile.lref
+C:\Users\andri\RiderProjects\kursova\kursova\obj\Debug\net8.0-windows\UserGuideWindow.baml
+C:\Users\andri\RiderProjects\kursova\kursova\obj\Debug\net8.0-windows\UserAddWindow.g.cs
+C:\Users\andri\RiderProjects\kursova\kursova\obj\Debug\net8.0-windows\UserAddWindow.baml
+C:\Users\andri\RiderProjects\kursova\kursova\obj\Debug\net8.0-windows\ViewUsers.g.cs
+C:\Users\andri\RiderProjects\kursova\kursova\obj\Debug\net8.0-windows\ViewUsers.baml
+C:\Users\andri\RiderProjects\kursova\kursova\obj\Debug\net8.0-windows\EditUsers.g.cs
+C:\Users\andri\RiderProjects\kursova\kursova\obj\Debug\net8.0-windows\EditUsers.baml
+C:\Users\andri\RiderProjects\kursova\kursova\bin\Debug\net8.0-windows\kursova.models.dll
+C:\Users\andri\RiderProjects\kursova\kursova\bin\Debug\net8.0-windows\kursova.models.pdb
+C:\Users\andri\RiderProjects\kursova\kursova\obj\Debug\net8.0-windows\kursova.csproj.AssemblyReference.cache
+C:\Users\andri\RiderProjects\kursova\kursova\obj\Debug\net8.0-windows\kursova.csproj.CopyComplete
+C:\Users\andri\RiderProjects\kursova\kursova\obj\Debug\net8.0-windows\DeleteUser.g.cs
+C:\Users\andri\RiderProjects\kursova\kursova\obj\Debug\net8.0-windows\DeleteUser.baml
+C:\Users\andri\RiderProjects\kursova\kursova\obj\Debug\net8.0-windows\FiveStepGuide.g.cs
+C:\Users\andri\RiderProjects\kursova\kursova\obj\Debug\net8.0-windows\FourStepGuide.g.cs
+C:\Users\andri\RiderProjects\kursova\kursova\obj\Debug\net8.0-windows\OneStepGuide.g.cs
+C:\Users\andri\RiderProjects\kursova\kursova\obj\Debug\net8.0-windows\ThreeStepGuide.g.cs
+C:\Users\andri\RiderProjects\kursova\kursova\obj\Debug\net8.0-windows\TwoStepGuide.g.cs
+C:\Users\andri\RiderProjects\kursova\kursova\obj\Debug\net8.0-windows\FiveStepGuide.baml
+C:\Users\andri\RiderProjects\kursova\kursova\obj\Debug\net8.0-windows\FourStepGuide.baml
+C:\Users\andri\RiderProjects\kursova\kursova\obj\Debug\net8.0-windows\OneStepGuide.baml
+C:\Users\andri\RiderProjects\kursova\kursova\obj\Debug\net8.0-windows\ThreeStepGuide.baml
+C:\Users\andri\RiderProjects\kursova\kursova\obj\Debug\net8.0-windows\TwoStepGuide.baml
+C:\Users\L-69\Desktop\kursova\kursova\bin\Debug\net8.0-windows\kursova.exe
+C:\Users\L-69\Desktop\kursova\kursova\bin\Debug\net8.0-windows\kursova.deps.json
+C:\Users\L-69\Desktop\kursova\kursova\bin\Debug\net8.0-windows\kursova.runtimeconfig.json
+C:\Users\L-69\Desktop\kursova\kursova\bin\Debug\net8.0-windows\kursova.dll
+C:\Users\L-69\Desktop\kursova\kursova\bin\Debug\net8.0-windows\kursova.pdb
+C:\Users\L-69\Desktop\kursova\kursova\bin\Debug\net8.0-windows\kursova.models.dll
+C:\Users\L-69\Desktop\kursova\kursova\bin\Debug\net8.0-windows\kursova.models.pdb
+C:\Users\L-69\Desktop\kursova\kursova\obj\Debug\net8.0-windows\kursova.csproj.AssemblyReference.cache
+C:\Users\L-69\Desktop\kursova\kursova\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\L-69\Desktop\kursova\kursova\obj\Debug\net8.0-windows\DeleteUser.g.cs
+C:\Users\L-69\Desktop\kursova\kursova\obj\Debug\net8.0-windows\EditUsers.g.cs
+C:\Users\L-69\Desktop\kursova\kursova\obj\Debug\net8.0-windows\FiveStepGuide.g.cs
+C:\Users\L-69\Desktop\kursova\kursova\obj\Debug\net8.0-windows\FourStepGuide.g.cs
+C:\Users\L-69\Desktop\kursova\kursova\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\L-69\Desktop\kursova\kursova\obj\Debug\net8.0-windows\OneStepGuide.g.cs
+C:\Users\L-69\Desktop\kursova\kursova\obj\Debug\net8.0-windows\ThreeStepGuide.g.cs
+C:\Users\L-69\Desktop\kursova\kursova\obj\Debug\net8.0-windows\TwoStepGuide.g.cs
+C:\Users\L-69\Desktop\kursova\kursova\obj\Debug\net8.0-windows\UserAddWindow.g.cs
+C:\Users\L-69\Desktop\kursova\kursova\obj\Debug\net8.0-windows\UserGuideWindow.g.cs
+C:\Users\L-69\Desktop\kursova\kursova\obj\Debug\net8.0-windows\ViewUsers.g.cs
+C:\Users\L-69\Desktop\kursova\kursova\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\L-69\Desktop\kursova\kursova\obj\Debug\net8.0-windows\kursova_MarkupCompile.cache
+C:\Users\L-69\Desktop\kursova\kursova\obj\Debug\net8.0-windows\kursova_MarkupCompile.lref
+C:\Users\L-69\Desktop\kursova\kursova\obj\Debug\net8.0-windows\DeleteUser.baml
+C:\Users\L-69\Desktop\kursova\kursova\obj\Debug\net8.0-windows\EditUsers.baml
+C:\Users\L-69\Desktop\kursova\kursova\obj\Debug\net8.0-windows\FiveStepGuide.baml
+C:\Users\L-69\Desktop\kursova\kursova\obj\Debug\net8.0-windows\FourStepGuide.baml
+C:\Users\L-69\Desktop\kursova\kursova\obj\Debug\net8.0-windows\OneStepGuide.baml
+C:\Users\L-69\Desktop\kursova\kursova\obj\Debug\net8.0-windows\ThreeStepGuide.baml
+C:\Users\L-69\Desktop\kursova\kursova\obj\Debug\net8.0-windows\TwoStepGuide.baml
+C:\Users\L-69\Desktop\kursova\kursova\obj\Debug\net8.0-windows\UserAddWindow.baml
+C:\Users\L-69\Desktop\kursova\kursova\obj\Debug\net8.0-windows\UserGuideWindow.baml
+C:\Users\L-69\Desktop\kursova\kursova\obj\Debug\net8.0-windows\ViewUsers.baml
+C:\Users\L-69\Desktop\kursova\kursova\obj\Debug\net8.0-windows\kursova.g.resources
+C:\Users\L-69\Desktop\kursova\kursova\obj\Debug\net8.0-windows\kursova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L-69\Desktop\kursova\kursova\obj\Debug\net8.0-windows\kursova.AssemblyInfoInputs.cache
+C:\Users\L-69\Desktop\kursova\kursova\obj\Debug\net8.0-windows\kursova.AssemblyInfo.cs
+C:\Users\L-69\Desktop\kursova\kursova\obj\Debug\net8.0-windows\kursova.csproj.CoreCompileInputs.cache
+C:\Users\L-69\Desktop\kursova\kursova\obj\Debug\net8.0-windows\kursova.csproj.Up2Date
+C:\Users\L-69\Desktop\kursova\kursova\obj\Debug\net8.0-windows\kursova.dll
+C:\Users\L-69\Desktop\kursova\kursova\obj\Debug\net8.0-windows\refint\kursova.dll
+C:\Users\L-69\Desktop\kursova\kursova\obj\Debug\net8.0-windows\kursova.pdb
+C:\Users\L-69\Desktop\kursova\kursova\obj\Debug\net8.0-windows\kursova.genruntimeconfig.cache
+C:\Users\L-69\Desktop\kursova\kursova\obj\Debug\net8.0-windows\ref\kursova.dll
+C:\Users\L-69\Desktop\kursova\kursova\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\L-69\Desktop\kursova\kursova\bin\Debug\net8.0-windows\kursova.services.dll
+C:\Users\L-69\Desktop\kursova\kursova\bin\Debug\net8.0-windows\kursova.services.pdb
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova\bin\Debug\net8.0-windows\kursova.exe
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova\bin\Debug\net8.0-windows\kursova.deps.json
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova\bin\Debug\net8.0-windows\kursova.runtimeconfig.json
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova\bin\Debug\net8.0-windows\kursova.dll
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova\bin\Debug\net8.0-windows\kursova.pdb
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova\bin\Debug\net8.0-windows\kursova.models.dll
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova\bin\Debug\net8.0-windows\kursova.services.dll
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova\bin\Debug\net8.0-windows\kursova.models.pdb
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova\bin\Debug\net8.0-windows\kursova.services.pdb
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova\obj\Debug\net8.0-windows\kursova.csproj.AssemblyReference.cache
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova\obj\Debug\net8.0-windows\DeleteUser.g.cs
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova\obj\Debug\net8.0-windows\EditUsers.g.cs
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova\obj\Debug\net8.0-windows\FiveStepGuide.g.cs
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova\obj\Debug\net8.0-windows\FourStepGuide.g.cs
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova\obj\Debug\net8.0-windows\OneStepGuide.g.cs
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova\obj\Debug\net8.0-windows\ThreeStepGuide.g.cs
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova\obj\Debug\net8.0-windows\TwoStepGuide.g.cs
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova\obj\Debug\net8.0-windows\UserAddWindow.g.cs
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova\obj\Debug\net8.0-windows\UserGuideWindow.g.cs
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova\obj\Debug\net8.0-windows\ViewUsers.g.cs
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova\obj\Debug\net8.0-windows\kursova_MarkupCompile.cache
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova\obj\Debug\net8.0-windows\kursova_MarkupCompile.lref
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova\obj\Debug\net8.0-windows\DeleteUser.baml
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova\obj\Debug\net8.0-windows\EditUsers.baml
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova\obj\Debug\net8.0-windows\FiveStepGuide.baml
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova\obj\Debug\net8.0-windows\FourStepGuide.baml
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova\obj\Debug\net8.0-windows\OneStepGuide.baml
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova\obj\Debug\net8.0-windows\ThreeStepGuide.baml
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova\obj\Debug\net8.0-windows\TwoStepGuide.baml
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova\obj\Debug\net8.0-windows\UserAddWindow.baml
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova\obj\Debug\net8.0-windows\UserGuideWindow.baml
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova\obj\Debug\net8.0-windows\ViewUsers.baml
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova\obj\Debug\net8.0-windows\kursova.g.resources
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova\obj\Debug\net8.0-windows\kursova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova\obj\Debug\net8.0-windows\kursova.AssemblyInfoInputs.cache
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova\obj\Debug\net8.0-windows\kursova.AssemblyInfo.cs
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova\obj\Debug\net8.0-windows\kursova.csproj.CoreCompileInputs.cache
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova\obj\Debug\net8.0-windows\kursova.csproj.CopyComplete
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova\obj\Debug\net8.0-windows\kursova.dll
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova\obj\Debug\net8.0-windows\refint\kursova.dll
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova\obj\Debug\net8.0-windows\kursova.pdb
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova\obj\Debug\net8.0-windows\kursova.genruntimeconfig.cache
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova\obj\Debug\net8.0-windows\ref\kursova.dll

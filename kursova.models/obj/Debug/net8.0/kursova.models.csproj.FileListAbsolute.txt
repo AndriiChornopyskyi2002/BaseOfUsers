@@ -1,0 +1,33 @@
+C:\Users\andri\RiderProjects\kursova\kursova.models\bin\Debug\net8.0\kursova.models.deps.json
+C:\Users\andri\RiderProjects\kursova\kursova.models\bin\Debug\net8.0\kursova.models.dll
+C:\Users\andri\RiderProjects\kursova\kursova.models\bin\Debug\net8.0\kursova.models.pdb
+C:\Users\andri\RiderProjects\kursova\kursova.models\obj\Debug\net8.0\kursova.models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andri\RiderProjects\kursova\kursova.models\obj\Debug\net8.0\kursova.models.AssemblyInfoInputs.cache
+C:\Users\andri\RiderProjects\kursova\kursova.models\obj\Debug\net8.0\kursova.models.AssemblyInfo.cs
+C:\Users\andri\RiderProjects\kursova\kursova.models\obj\Debug\net8.0\kursova.models.csproj.CoreCompileInputs.cache
+C:\Users\andri\RiderProjects\kursova\kursova.models\obj\Debug\net8.0\kursova.models.dll
+C:\Users\andri\RiderProjects\kursova\kursova.models\obj\Debug\net8.0\refint\kursova.models.dll
+C:\Users\andri\RiderProjects\kursova\kursova.models\obj\Debug\net8.0\kursova.models.pdb
+C:\Users\andri\RiderProjects\kursova\kursova.models\obj\Debug\net8.0\ref\kursova.models.dll
+C:\Users\L-69\Desktop\kursova\kursova.models\bin\Debug\net8.0\kursova.models.deps.json
+C:\Users\L-69\Desktop\kursova\kursova.models\bin\Debug\net8.0\kursova.models.dll
+C:\Users\L-69\Desktop\kursova\kursova.models\bin\Debug\net8.0\kursova.models.pdb
+C:\Users\L-69\Desktop\kursova\kursova.models\obj\Debug\net8.0\kursova.models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L-69\Desktop\kursova\kursova.models\obj\Debug\net8.0\kursova.models.AssemblyInfoInputs.cache
+C:\Users\L-69\Desktop\kursova\kursova.models\obj\Debug\net8.0\kursova.models.AssemblyInfo.cs
+C:\Users\L-69\Desktop\kursova\kursova.models\obj\Debug\net8.0\kursova.models.csproj.CoreCompileInputs.cache
+C:\Users\L-69\Desktop\kursova\kursova.models\obj\Debug\net8.0\kursova.models.dll
+C:\Users\L-69\Desktop\kursova\kursova.models\obj\Debug\net8.0\refint\kursova.models.dll
+C:\Users\L-69\Desktop\kursova\kursova.models\obj\Debug\net8.0\kursova.models.pdb
+C:\Users\L-69\Desktop\kursova\kursova.models\obj\Debug\net8.0\ref\kursova.models.dll
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova.models\bin\Debug\net8.0\kursova.models.deps.json
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova.models\bin\Debug\net8.0\kursova.models.dll
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova.models\bin\Debug\net8.0\kursova.models.pdb
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova.models\obj\Debug\net8.0\kursova.models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova.models\obj\Debug\net8.0\kursova.models.AssemblyInfoInputs.cache
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova.models\obj\Debug\net8.0\kursova.models.AssemblyInfo.cs
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova.models\obj\Debug\net8.0\kursova.models.csproj.CoreCompileInputs.cache
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova.models\obj\Debug\net8.0\kursova.models.dll
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova.models\obj\Debug\net8.0\refint\kursova.models.dll
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova.models\obj\Debug\net8.0\kursova.models.pdb
+C:\Users\andri\OneDrive\Рабочий стол\kursova\kursova.models\obj\Debug\net8.0\ref\kursova.models.dll

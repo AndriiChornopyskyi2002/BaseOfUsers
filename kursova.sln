@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kursova", "kursova\kursova.csproj", "{9DC23737-7C6A-46F9-A123-8AE9A060AE20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kursova.models", "kursova.models\kursova.models.csproj", "{E2C15679-3A0F-4A0D-B24C-03FF560B16D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kursova.services", "kursova.services\kursova.services.csproj", "{BDEB9495-AA73-4A89-9771-9A64C9A77421}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DC23737-7C6A-46F9-A123-8AE9A060AE20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DC23737-7C6A-46F9-A123-8AE9A060AE20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DC23737-7C6A-46F9-A123-8AE9A060AE20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DC23737-7C6A-46F9-A123-8AE9A060AE20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2C15679-3A0F-4A0D-B24C-03FF560B16D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2C15679-3A0F-4A0D-B24C-03FF560B16D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2C15679-3A0F-4A0D-B24C-03FF560B16D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2C15679-3A0F-4A0D-B24C-03FF560B16D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDEB9495-AA73-4A89-9771-9A64C9A77421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDEB9495-AA73-4A89-9771-9A64C9A77421}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDEB9495-AA73-4A89-9771-9A64C9A77421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDEB9495-AA73-4A89-9771-9A64C9A77421}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

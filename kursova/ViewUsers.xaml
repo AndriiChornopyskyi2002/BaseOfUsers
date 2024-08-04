@@ -1,0 +1,63 @@
+﻿<base:BaseView x:Class="kursova.ViewUsers"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:local="clr-namespace:kursova"
+        xmlns:base="clr-namespace:kursova.Base"
+        mc:Ignorable="d"
+        Title="Довідникова книга" Height="450" Width="800">
+    <Grid>
+        
+        <Label FontWeight="Bold" FontSize="20" HorizontalAlignment="Center">Переглянути користувачів</Label>
+        <ListBox x:Name="userListBox" HorizontalAlignment="Left" Width="400" Height="200" Margin="10" />
+        
+        <StackPanel Margin="10" HorizontalAlignment="Right" VerticalAlignment="Center" Width="150" Height="300">
+            <StackPanel Margin="0 10">
+                <Label Content="Параметри сортування" FontWeight="Bold"/>
+                
+                <Label>Тип Сортування</Label>
+                <ComboBox x:Name="SortComboBox" Width="150" Height="25">
+                    <ComboBoxItem>За спаданням</ComboBoxItem>
+                    <ComboBoxItem>За зростанням</ComboBoxItem>
+                </ComboBox>
+            </StackPanel>
+            
+            <Label>Характер знайомства</Label>
+            <ComboBox Margin="0" x:Name="RelationshipTextBox" Width="150" Height="25">
+                <ComboBoxItem>Професійний</ComboBoxItem>
+                <ComboBoxItem>Особистий</ComboBoxItem>
+                <ComboBoxItem>Діловий</ComboBoxItem>
+                <ComboBoxItem>Соціальний</ComboBoxItem>
+                <ComboBoxItem>Мережевий</ComboBoxItem>
+                <ComboBoxItem>Академічний</ComboBoxItem>
+                <ComboBoxItem>Культурний</ComboBoxItem>
+            </ComboBox>
+
+            <Label Margin="0">Ділові якості</Label>
+            <ComboBox x:Name="BusinessQualitiesTextBox" Width="150" Height="25">
+                <ComboBoxItem>Лідерство</ComboBoxItem>
+                <ComboBoxItem>Комунікативність</ComboBoxItem>
+                <ComboBoxItem>Аналітичність</ComboBoxItem>
+                <ComboBoxItem>Організованість</ComboBoxItem>
+                <ComboBoxItem>Творчість</ComboBoxItem>
+                <ComboBoxItem>Стресостійкість</ComboBoxItem>
+                <ComboBoxItem>Етичність</ComboBoxItem>
+            </ComboBox>
+
+            <Label Margin="0">Стать</Label>
+            <ComboBox x:Name="GenderComboBox" Width="150" Height="25">
+                <ComboBoxItem>Чоловік</ComboBoxItem>
+                <ComboBoxItem>Жінка</ComboBoxItem>
+            </ComboBox>
+            
+            <Button Margin="0 20" Content="Сортувати" Click="SearchButton_Click"/>
+        </StackPanel>
+        
+       
+        
+        <StackPanel HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="0">
+            <Button Margin="10" Content="Назад" Click="ReturnToMainMenu_Click"/>
+        </StackPanel>
+    </Grid>
+</base:BaseView>

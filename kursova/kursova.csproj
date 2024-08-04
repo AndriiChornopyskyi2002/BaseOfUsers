@@ -1,0 +1,63 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>WinExe</OutputType>
+        <TargetFramework>net8.0-windows</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <UseWPF>true</UseWPF>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Page Update="UserGuideWindow.xaml">
+        <Generator>MSBuild:Compile</Generator>
+        <DependentUpon>MainWindow.xaml</DependentUpon>
+      </Page>
+      <Page Update="UserAddWindow.xaml">
+        <Generator>MSBuild:Compile</Generator>
+        <DependentUpon>MainWindow.xaml</DependentUpon>
+      </Page>
+      <Page Update="ViewUsers.xaml">
+        <Generator>MSBuild:Compile</Generator>
+        <DependentUpon>MainWindow.xaml</DependentUpon>
+      </Page>
+      <Page Update="MainWindow.xaml">
+        <Generator>MSBuild:Compile</Generator>
+        <DependentUpon>App.xaml</DependentUpon>
+      </Page>
+      <Page Update="EditUsers.xaml">
+        <Generator>MSBuild:Compile</Generator>
+        <DependentUpon>MainWindow.xaml</DependentUpon>
+      </Page>
+      <Page Update="DeleteUser.xaml">
+        <Generator>MSBuild:Compile</Generator>
+        <DependentUpon>MainWindow.xaml</DependentUpon>
+      </Page>
+      <Page Update="FiveStepGuide.xaml">
+        <Generator>MSBuild:Compile</Generator>
+        <DependentUpon>UserGuideWindow.xaml</DependentUpon>
+      </Page>
+      <Page Update="OneStepGuide.xaml">
+        <Generator>MSBuild:Compile</Generator>
+        <DependentUpon>UserGuideWindow.xaml</DependentUpon>
+      </Page>
+      <Page Update="ThreeStepGuide.xaml">
+        <Generator>MSBuild:Compile</Generator>
+        <DependentUpon>UserGuideWindow.xaml</DependentUpon>
+      </Page>
+      <Page Update="TwoStepGuide.xaml">
+        <Generator>MSBuild:Compile</Generator>
+        <DependentUpon>UserGuideWindow.xaml</DependentUpon>
+      </Page>
+      <Page Update="FourStepGuide.xaml">
+        <Generator>MSBuild:Compile</Generator>
+        <DependentUpon>UserGuideWindow.xaml</DependentUpon>
+      </Page>
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\kursova.models\kursova.models.csproj" />
+      <ProjectReference Include="..\kursova.services\kursova.services.csproj" />
+    </ItemGroup>
+
+</Project>
